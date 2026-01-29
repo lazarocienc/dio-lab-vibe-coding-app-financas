@@ -1,6 +1,6 @@
 # 💸 App de Finanças Pessoais do Lázaro com Vibe Coding
 
-PRD refinado do Copilot Web:
+## PRD refinado do Copilot Web:
 
 ```markdown
 # PRD - Aplicativo de Organização de Finanças Pessoais
